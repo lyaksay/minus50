@@ -14,7 +14,14 @@
 
   </head>
 <body>
-<h3>Grey header</h3>
+<div class="container-fluid">
+        <ul class="nav justify-content-center top__section">
+            <li class="nav-item"><a href="">Доставка по всей России</a></li>
+            <li class="nav-item"><a href="">Возврат через 14 дней</a></li>
+            <li class="nav-item"><a href="">Отзывы</a></li>
+            <li class="nav-item"><a href="">Франшиза</a></li>
+        </ul>
+</div>
 
 
 
