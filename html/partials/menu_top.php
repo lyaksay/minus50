@@ -1,7 +1,7 @@
-<div class="container">
+<div class="container-fluid">
     <div class="row header">
         <div class="col-sm-2">
-            <div class="h-main-logo">
+            <div class="h-main-logo ">
                 <img class="img-fluid" src="/images/logo.png" alt="">
             </div>
         </div>
@@ -15,7 +15,7 @@
             </ul>
         </div>
 
-        <div class="col-sm-2 h-right">
+        <div class="col-sm-2">
             <a href="">Вход</a>
             <a href=""></a>
             <a href=""></a>
