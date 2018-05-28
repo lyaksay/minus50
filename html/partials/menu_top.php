@@ -1,14 +1,26 @@
 <div class="container">
-    <div class="row">
-        <div class="col-md-12">
-            <h4>Menu top</h4>
-            <ul>
-                <li><a href="">fgfgf</a></li>
-                <li><a href="">fgfhg</a></li>
-                <li><a href="">fgfg</a></li>
-                <li><a href="">fgfg</a></li>
-                <li><a href="">fghfh</a></li>
+    <div class="row header">
+        <div class="col-sm-2">
+            <div class="h-main-logo">
+                <img class="img-fluid" src="/images/logo.png" alt="">
+            </div>
+        </div>
+
+        <div class="col-sm-8">
+            <ul class="nav justify-content-center ">
+                <li class="nav-item"><a href="">Женщинам</a></li>
+                <li class="nav-item"><a href="">Мужчинам</a></li>
+                <li class="nav-item"><a href="">Детям</a></li>
+                <li class="nav-item"><a href="">Помощь</a></li>
             </ul>
+        </div>
+
+        <div class="col-sm-2 h-right">
+            <a href="">Вход</a>
+            <a href=""></a>
+            <a href=""></a>
+            <a href=""></a>
+            <a href=""></a>
         </div>
     </div>
 </div>
