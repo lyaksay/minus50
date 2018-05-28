@@ -6,10 +6,5 @@
 <!---->
 
 
-<h1>Главная</h1>
-
-<div class=""></div>
-
-
 <!---->
 <?php include ('partials/footer.php')?>

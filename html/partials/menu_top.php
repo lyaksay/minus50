@@ -2,7 +2,7 @@
     <div class="row header">
         <div class="col-sm-2">
             <div class="h-main-logo ">
-                <img class="img-fluid" src="/images/logo.png" alt="">
+                <img src="/images/logo.png" alt="">
             </div>
         </div>
 
