@@ -15,4 +15,52 @@ body {
   color: #999;
   padding: 2px .425em; }
 
+.level__1 {
+  list-style-type: none; }
+  .level__1level__1:first-child {
+    border-top: none; }
+
+.item__category {
+  padding: 18px 0;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1d1d1f;
+  display: block;
+  position: relative;
+  text-transform: uppercase;
+  text-align: left;
+  cursor: pointer;
+  border-top: 1px dotted #b4b4b4; }
+
+.product__description {
+  width: 100%;
+  padding: 0;
+  height: 100px;
+  text-align: left; }
+
+.main-item {
+  float: left;
+  height: 484px;
+  width: 259px;
+  margin: 0 .9% 20px;
+  max-width: 259px;
+  min-height: 310px;
+  transform-style: flat;
+  position: relative; }
+
+.product__description {
+  margin-left: 10px; }
+
+.pd__name {
+  display: block;
+  font-size: 14px;
+  color: #999;
+  padding: 10px 0; }
+
+.pd__price {
+  float: left;
+  width: 100%;
+  font-size: 13px;
+  color: #333; }
+
 /*# sourceMappingURL=main.css.map */
